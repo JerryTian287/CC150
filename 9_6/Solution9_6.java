@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
+
+
 public class Solution9_6 {
 	public static void validParentheses(int n) {
 		List<String> result = new ArrayList<String>();
